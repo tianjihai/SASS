@@ -1,0 +1,19 @@
+
+$ft:25px;
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li { display: inline-block; }
+
+  a {
+    display: block;
+    padding: 6px 15px;
+    text-decoration: none;
+    font-size: $ft;
+  }
+}
+
